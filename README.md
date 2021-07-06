@@ -32,3 +32,8 @@ you out of behavioral tracking across a growing list of third party tools.
 
 Can you add to the list of tools supported by `cli-privacy`? Please submit a
 pull request!
+
+## Acknowledgements
+
+`cli-privacy` was inspired by [Console Do Not Track](https://consoledonottrack.com), which
+tackles the same problem from another direction.
