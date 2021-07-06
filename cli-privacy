@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# usage: source /path/to/cli-privacy
+
+export AZURE_CORE_COLLECT_TELEMETRY=false # https://docs.microsoft.com/en-us/cli/azure/azure-cli-configuration#cli-configuration-values-and-environment-variables
+export DOTNET_CLI_TELEMETRY_OPTOUT=1 # https://docs.microsoft.com/en-us/dotnet/core/tools/telemetry#how-to-opt-out
+export GATSBY_TELEMETRY_DISABLED=1 # https://www.gatsbyjs.com/docs/telemetry/
+export HOMEBREW_NO_ANALYTICS=1 # https://docs.brew.sh/Analytics
+export SAM_CLI_TELEMETRY=0 # https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-telemetry.html
