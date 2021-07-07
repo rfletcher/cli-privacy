@@ -3,7 +3,7 @@
 CLI Privacy: Opt-out of third-party tracking in your terminal.
 
 It's becoming more common for software makers to track how people use their
-software in private, often without their knowledge. Some provide a way to
+software in private, often without the user's knowledge. Some provide a way to
 opt-out, but there's no universal standard for doing so. To opt-out across
 every tool requires digging through documentation, and modifying your shell
 configuration.
